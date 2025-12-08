@@ -1,0 +1,43 @@
+body {
+    background-color: ghostwhite;
+    font-family: sans-serif;
+    font-style: inherit;
+
+}
+
+
+img {
+      width: 800px;
+      height: auto;
+      display: block;
+      margin-bottom: 0;
+}
+
+
+.image-container {
+    padding-top: 20px; 
+    margin: 0px 0px 20px 0px;
+
+}
+
+
+ h1 {
+  font-style: italic;
+  font-size: 50px;
+}
+
+h2 {
+    font-size: 20px;
+     
+}
+
+
+
+p{
+    font-size: 15x;
+    text-decoration-style: double;
+    text-decoration-thickness: 2x;
+    font-style: sans-serif;
+}
+
+
